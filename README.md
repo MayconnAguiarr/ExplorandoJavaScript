@@ -6,3 +6,6 @@ Exemplo: https://github.com/MayconnAguiarr/ExplorandoJavaScript/blob/master/vari
 
 TIPAGEM - O javaScript permite uma tipagem dinamica.<br>
 Exemplo:https://github.com/MayconnAguiarr/ExplorandoJavaScript/blob/master/tipagem_dinamica.js  
+
+tipeof - retorna o tipo da váriavel. <br>
+Exemplo: 
