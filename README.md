@@ -4,5 +4,5 @@ HOISTING - Tem a função de levar tudo que for declaração de variaveis para o
 permitinfo entao declarar uma variavel depois de usar, mas ele não atribui o valor.<br>
 Exemplo: https://github.com/MayconnAguiarr/ExplorandoJavaScript/blob/master/variaveis_e_hoisting.js
 
-TIPAGEM - O javaScript permite uma tipagem dinamica.
-Exemplo:  
+TIPAGEM - O javaScript permite uma tipagem dinamica.<br>
+Exemplo:https://github.com/MayconnAguiarr/ExplorandoJavaScript/blob/master/tipagem_dinamica.js  
