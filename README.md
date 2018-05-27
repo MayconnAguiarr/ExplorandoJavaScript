@@ -22,13 +22,13 @@ Se houver uma variável no escopo global e você quiser criar uma variável com 
 
 ## Bind
 O método bind() cria uma nova função que, quando chamada, tem seu parâmetro (ref mesmo objeto) this, podendo vincular ou iniciar com outros parâmetros definidos, dada sequência dos argumentos que foram fornecidos quando a nova função é chamada.
-
 A variável no escopo interno irá sombrear temporariamente a variável no escopo externo.
 
-Hoisting - Em bom português, significa usar o guindaste para elevar um objeto. E é isto o que acontece em JavaScript quando declaramos uma variável ou função. Sua declaração é “elevada” para o topo do escopo.
+## Hoisting 
+Em bom português, significa usar o guindaste para elevar um objeto. E é isto o que acontece em JavaScript quando declaramos uma variável ou função. Sua declaração é “elevada” para o topo do escopo.
 
 ## Temporizadores
-JavaScript tem duas funções muito úteis que servem para “agendar tarefas” que devam ser executadas. São elas o setTimeout e o setInterval.<br>
+JavaScript tem duas funções muito úteis que servem para “agendar tarefas” que devam ser executadas. São elas o setTimeout e o setInterval.
 
 
 
